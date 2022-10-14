@@ -1,0 +1,4 @@
+# File to ignore items from git tracking.
+/7th-Assessment.mov
+/7th-Assessment.code-workspace
+.vscode/
